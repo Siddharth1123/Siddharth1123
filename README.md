@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-Future Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Future Data Scientist,Softwere Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Pursuing Btech in Computer Science and also specialization in Data Science.
 
 - :seedling: Exploring new things .
